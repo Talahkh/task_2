@@ -1,6 +1,6 @@
 # Task 2 - Git & GitHub Workflow Practice
 
-Welcome to my GitHub repository! This project was created to practice fundamental Git and GitHub collaboration workflows, including repository setup, branching, committing changes, and managing pull requests.
+Welcome. This is my second task for the Software Engineering course. This project was created to practice fundamental Git and GitHub collaboration workflows, including repository setup, branching, committing changes, and managing pull requests.
 
 ## 📌 Overview
 
