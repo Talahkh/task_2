@@ -5,5 +5,5 @@ Welcome to my GitHub repository! This project was created to practice fundamenta
 ## 📌 Overview
 
 * **Repository Name:** `task_2`
-* **Language:** Python
+* **Language:** Python .
 * **Purpose:** Practice standard Git branching, Pull Requests (PR), and code reviews.
